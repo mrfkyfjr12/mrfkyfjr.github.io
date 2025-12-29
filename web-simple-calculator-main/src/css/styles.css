@@ -1,0 +1,16 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+input, select, textarea {
+  font-family: inherit;
+  border: none;
+  /* bg-zinc-800 */
+  background-color: rgb(39, 39, 42);
+}
+
+select, select option {
+  background-color: rgb(39, 39, 42);
+  color: white;
+  cursor: pointer;
+}
